@@ -1,4 +1,4 @@
-export function mes() {
+function mes() {
     alert('ボタンがクリックされました')
     console.log("Hello World");
 } 
